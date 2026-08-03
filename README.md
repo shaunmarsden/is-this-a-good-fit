@@ -11,6 +11,14 @@ Classify each aspect of a decision, a job offer, a vendor choice, a project idea
 
 A decision built on every attractive detail, rather than the ones that actually hold up, is a decision waiting to be regretted. Some aspects of most decisions are genuinely good, some are genuinely bad, and some are simply not known yet. Flattening all of that into one overall impression, or letting an attractive detail talk you out of a real shortfall elsewhere, gets it wrong.
 
+```mermaid
+flowchart TB
+    A["1. Paste what you need and what's confirmed per aspect"]
+    B["2. Each aspect classified: good fit, poor fit, or uncertain"]
+    C["3. No reframed shortfalls, no unstated needs guessed at"]
+    A --> B --> C
+```
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in what you actually need and what has been confirmed about each aspect. It classifies each as:
@@ -19,9 +27,18 @@ Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemin
 - **Poor fit**, a specific, named mismatch, stated plainly
 - **Uncertain**, not enough evidence yet, a real category, not a soft way of avoiding poor fit
 
-See [the worked example](example/): a fictional job offer, where a real compensation shortfall came wrapped in an attempt to reframe it as a hidden benefit, and the review refuses that reframe.
+<details>
+<summary><strong>See exactly what it produces</strong></summary>
 
-Use [the blank template](templates/fit-review-template.md) for your own decision.
+1. A classification for each aspect: good fit, poor fit, or uncertain, with the reason stated plainly
+2. Any attempt to reframe a real shortfall as a hidden benefit, refused and named
+3. Any aspect where your own need was never actually stated, left unclassified rather than guessed at
+
+</details>
+
+See [the worked example](example/): a fictional job offer, where a real compensation shortfall came wrapped in an attempt to reframe it as a hidden benefit, and the review refuses that reframe. For the harder case, a deadline pressuring an untested aspect toward "good enough" and a need that was never actually stated, read [the second worked example](example-two/).
+
+Use [the blank template](templates/fit-review-template.md) for your own decision, and [the review checklist](checks/checklist.md) before acting on it.
 
 No installation, project, or coding required to try it once.
 

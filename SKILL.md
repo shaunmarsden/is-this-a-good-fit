@@ -44,4 +44,4 @@ Do not produce a classification when:
 
 This produces a classification and the reasoning behind it. Deciding what to actually do with it stays with you.
 
-For a fictional worked example, read [the worked example](example/). Use [the blank template](templates/fit-review-template.md) for your own decision.
+For a fictional worked example, read [the worked example](example/). For the harder case, a deadline pressuring an untested aspect and a need that was never actually stated, read [the second worked example](example-two/). Use [the blank template](templates/fit-review-template.md) for your own decision, and [the review checklist](checks/checklist.md) before acting on it.
