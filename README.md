@@ -40,10 +40,6 @@ No installation, project, or coding required to try it once.
 
 This classifies; it does not decide. What to actually do with a poor fit or an uncertain aspect stays your own call.
 
-## Licence
-
-MIT.
-
 ## Feedback
 
 Used it on a real decision? [Start a discussion](https://github.com/shaunmarsden/is-this-a-good-fit/discussions) if a classification did not fit.
