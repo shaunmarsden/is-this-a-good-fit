@@ -11,7 +11,7 @@ Classify each aspect of a decision, a job offer, a vendor choice, a project idea
 
 A decision built on every attractive detail, rather than the ones that actually hold up, is a decision waiting to be regretted. Some aspects of most decisions are genuinely good, some are genuinely bad, and some are simply not known yet. Flattening all of that into one overall impression, or letting an attractive detail talk you out of a real shortfall elsewhere, gets it wrong.
 
-![Three evidence-led categories for assessing fit.](assets/diagrams/17-is-this-a-good-fit.svg)
+[![Three evidence-led categories for assessing fit.](assets/diagrams/17-is-this-a-good-fit.svg)](SKILL.md)
 
 ## Use It
 
