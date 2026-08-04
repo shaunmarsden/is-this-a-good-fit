@@ -5,7 +5,7 @@ description: Classify each aspect of a decision, a job offer, a vendor choice, a
 
 # Is This Actually a Good Fit?
 
-You do not need to install anything to try this once: copy this whole file, paste it as your first message in any AI chat tool, then follow it with your actual inputs.
+You do not need to install anything to try this once. The lines between the dashes at the very top are just this file's label; leave them in. On GitHub, copy this using the **Raw** button near the top of the page rather than selecting the rendered text, so the tables and links below paste in cleanly. Send the whole file as your first message in any AI chat tool, then follow it with your actual inputs.
 
 A decision built on every attractive detail, rather than the ones that actually hold up, is a decision waiting to be regretted. This separates the two before that happens, and refuses to let a genuine limitation get written up as a hidden strength.
 
