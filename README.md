@@ -5,45 +5,45 @@
   <a href="LICENSE"><img alt="Licence: MIT" src="https://img.shields.io/badge/licence-MIT-lightgrey"></a>
 </p>
 
-Classify each aspect of a decision, a job offer, a vendor choice, a project idea, as a good fit, a poor fit, or genuinely uncertain, using only confirmed information.
+Sort each aspect of a decision, such as a job offer, a vendor choice or a project idea, into good fit, poor fit or uncertain, using only what's been confirmed.
 
 ## Why
 
-A decision built on every attractive detail, rather than the ones that actually hold up, is a decision waiting to be regretted. Some aspects of most decisions are genuinely good, some are genuinely bad, and some are simply not known yet. Flattening all of that into one overall impression, or letting an attractive detail talk you out of a real shortfall elsewhere, gets it wrong.
+If you decide on every attractive detail rather than the ones that hold up, you set yourself up for regret. Most decisions have some aspects that are good, some that are bad and some nobody knows yet. It goes wrong when you blur all that into one overall impression, or let an attractive detail talk you out of a real shortfall elsewhere.
 
 [![Three evidence-led categories for assessing fit.](assets/diagrams/17-is-this-a-good-fit.svg)](SKILL.md)
 
 ## Use It
 
-Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in what you actually need and what has been confirmed about each aspect. It classifies each as:
+Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini or similar), then paste in what you need and what's been confirmed about each aspect. It sorts each one into:
 
-- **Good fit**, what you need matches what has actually been confirmed
-- **Poor fit**, a specific, named mismatch, stated plainly
-- **Uncertain**, not enough evidence yet, a real category, not a soft way of avoiding poor fit
+- Good fit, where what you need matches what's been confirmed
+- Poor fit, where there's a specific mismatch, stated plainly
+- Uncertain, where there isn't enough evidence yet. This is a real category, not a soft way to avoid saying poor fit.
 
 <details>
-<summary><strong>See exactly what it produces</strong></summary>
+<summary><strong>See what it produces</strong></summary>
 
-1. A classification for each aspect: good fit, poor fit, or uncertain, with the reason stated plainly
-2. Any attempt to reframe a real shortfall as a hidden benefit, refused and named
-3. Any aspect where your own need was never actually stated, left unclassified rather than guessed at
+1. A classification for each aspect (good fit, poor fit or uncertain), with the reason stated plainly
+2. A refusal, with the reason, whenever someone tries to present a real shortfall as a hidden benefit
+3. No classification, rather than a guess, for any aspect where you never stated your own need
 
 </details>
 
-See [the worked example](example/): a fictional job offer, where a real compensation shortfall came wrapped in an attempt to reframe it as a hidden benefit, and the review refuses that reframe. For the harder case, a deadline pressuring an untested aspect toward "good enough" and a need that was never actually stated, read [the second worked example](example-two/).
+[The worked example](example/) is a fictional job offer. The recruiter presents a real pay shortfall as a hidden benefit, and the fit review refuses to go along with it. [The second worked example](example-two/) is harder. A deadline pushes an untested aspect towards "good enough", and one need was never stated.
 
-Use [the blank template](templates/fit-review-template.md) for your own decision, and [the review checklist](checks/checklist.md) before acting on it.
+Use [the blank template](templates/fit-review-template.md) for your own decision, and [the review checklist](checks/checklist.md) before you act on it.
 
-No installation, project, or coding required to try it once.
+You don't need to install anything, set up a project or write code to try it.
 
 ## Before You Use It
 
-This classifies; it does not decide. What to actually do with a poor fit or an uncertain aspect stays your own call.
+This classifies; it doesn't decide. What you do about a poor fit or an uncertain aspect is your call.
 
 ## Feedback
 
-Used it on a real decision? [Start a discussion](https://github.com/shaunmarsden/is-this-a-good-fit/discussions) if a classification did not fit.
+Used it on a real decision? [Start a discussion](https://github.com/shaunmarsden/is-this-a-good-fit/discussions) if a classification didn't fit.
 
 ## Part of a Family
 
-This is one of a family of free tools generalising [practical-ai-sales-workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows) patterns beyond sales. See [sibling-projects](https://github.com/shaunmarsden/sibling-projects) for the rest. Not sure which one actually fits? Try [the interactive picker](https://shaunmarsden.github.io/sibling-projects/) for clickable cards, or [the router](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md) if you would rather paste a description into an AI chat.
+This is one of a family of free tools that take patterns from [practical-ai-sales-workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows) beyond sales. [sibling-projects](https://github.com/shaunmarsden/sibling-projects) lists the rest. Not sure which one fits? Try [the interactive picker](https://shaunmarsden.github.io/sibling-projects/), which shows clickable cards, or paste a description into an AI chat with [the router](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md).
