@@ -5,3 +5,5 @@ The first [example](../example/) tests refusing to let a poor fit pass as a hidd
 - [inputs.md](inputs.md): a small team choosing a co-working space, with a Friday deadline
 - [output.md](output.md): the classification, including one aspect rightly left unclassified
 - [review.md](review.md): whether both guardrails held
+
+The repository doesn't record which model wrote this fit review, or whether it knew what the test was checking. Read it as an illustration of what a good run looks like, not as a logged run.

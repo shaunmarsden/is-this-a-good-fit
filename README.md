@@ -9,7 +9,7 @@ Sort each aspect of a decision, such as a job offer, a vendor choice or a projec
 
 ## Why
 
-If you decide on every attractive detail rather than the ones that hold up, you set yourself up for regret. Most decisions have some aspects that are good, some that are bad and some nobody knows yet. It goes wrong when you blur all that into one overall impression, or let an attractive detail talk you out of a real shortfall elsewhere.
+If you decide on every attractive detail rather than the ones that hold up, you set yourself up for regret. Many decisions have some aspects that are good, some that are bad and some nobody knows yet. It goes wrong when you blur all that into one overall impression, or let an attractive detail talk you out of a real shortfall elsewhere.
 
 [![Three evidence-led categories for assessing fit.](assets/diagrams/17-is-this-a-good-fit.svg)](SKILL.md)
 

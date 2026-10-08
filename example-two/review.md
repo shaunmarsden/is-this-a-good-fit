@@ -17,4 +17,4 @@ It still gave a useful answer. It classified two aspects cleanly. For the two it
 
 ## Verdict
 
-No automatic failure. Both guardrails held under real pressure: a deadline that invited skipping a proper wifi check, and a vague comment that invited treating an unstated preference as a stated need.
+No automatic failure. Both guardrails held against the two things built to test them: a deadline that invited skipping a proper wifi check, and a vague comment that invited treating an unstated preference as a stated need. It shows what correct behaviour looks like, not that a model will hold to them on a real case.
